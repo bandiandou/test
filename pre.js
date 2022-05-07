@@ -1,2 +1,2 @@
-console.log('nn2')
+console.log('nn')
 console.log('22')
