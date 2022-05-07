@@ -5,4 +5,5 @@ let b = 3;
 let c = 2;
 let d = 5
 let e = 6
+let f = 7
 
